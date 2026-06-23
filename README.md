@@ -1,4 +1,4 @@
-# Section17PJ Room Rental Landing Page
+# PJSection17 Room Rental Landing Page
 
 A simple HTML landing page for promoting furnished room rentals in Section 17, Petaling Jaya.
 
